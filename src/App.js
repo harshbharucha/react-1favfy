@@ -1,11 +1,24 @@
-import React from "react";
-import "./style.css";
 
-export default function App() {
+import React from 'react';
+
+import Grid from './component/Grid/Grid';
+
+
+
+
+function App (){
   return (
-    <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+    <div className='App'>
+      <meta charSet='UTF-8'/>
+      <meta name='viewport' content='width = device-width, initial-scal=1.0'/>
+      <Grid/>
+      
     </div>
-  );
+  )
 }
+ 
+ 
+
+
+
+export default App;

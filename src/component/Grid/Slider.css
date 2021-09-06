@@ -1,0 +1,17 @@
+.Slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 1350px;
+   
+    color: #fff;
+    margin-left: 280px;
+    margin-top: 400px;
+    font-size: 4rem;
+    border:thistle;
+
+    
+}/* Asset 1@4x 1 */
+
+
